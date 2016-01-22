@@ -15,11 +15,6 @@ public class Client2 {
     public static void main(String[] args) {
 
         Client2 main = new Client2();
-		gui = new GUI();
-		gui2 = new GUI();
-        gui.setVisible(true);
-        gui.startController();
-       
     }
     
     
